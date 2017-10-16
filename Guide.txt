@@ -1,0 +1,36 @@
+User Guide for Prosthetic Leg Program
+
+Rotation Controls
+
+	A and D - Rotate along the Y-axis
+	W and S - Rotate along the X-axis
+	Q and E - Rotate along the Z-axis
+
+Scaling Controls
+
+	Z - Decrease Scale
+	X - Increase Scale
+
+Translation Controls
+
+	Use the arrow keys to translate and shift model in the x and y axis.
+
+B-spline Controls
+
+	M - Change between different b-spline curves
+		Mode 1: First b-spline for the thigh (white points)
+		Mode 2: Second b-spline for the thigh (light-blue points)
+		Mode 3: B-spline for the foot (pink points)
+
+	Click and drag a point of the right mode with the mouse to move points around.
+
+Default Controls
+
+	R - Redraw the leg after moving b-spline changes
+	I - Reset leg to initial/default dimensions
+	P - Reset the camera to the default view (needed in order to change b-spline points easily)
+
+Dimension Controls
+
+	K and L - Increase/Decrease foot width
+	H and J - Increase/Decrease connector height
